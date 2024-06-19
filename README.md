@@ -1,0 +1,1 @@
+The Online Course Registration System (OCRS) revolutionizes the course registration process, offering a seamless, web-based solution for students and administrators. By replacing outdated paper-based methods, OCRS enhances convenience, accessibility, and efficiency in managing course selections, schedules, and enrolment statuses.
